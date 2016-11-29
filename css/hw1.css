@@ -1,0 +1,42 @@
+
+
+/* header - background color */
+header {
+	background-color: #bdbdbd;
+}
+
+/*
+h1 and h2 - change font color; headings all in capital letters;
+Just for h1 - center the text
+*/
+h1 {
+	color: #ffffff;
+	text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+	color: #433e90;
+	text-transform: uppercase;
+}
+
+/* links - subtle changes - change the background color and font color; center the text (subtle change) */
+a {
+	color: #000000;
+	background-color: #d3d3d3;
+    text-align: center;
+}
+
+/* section - one change - change the background color */
+section {
+	background-color: #7e7e7e;
+}
+
+/* images - Remove the images from the page */
+aside.left {
+	display: none;
+}
+
+body {
+	background: pink;
+}
